@@ -1,0 +1,745 @@
+[
+    {
+        "room_0": "Doors Open",
+        "time": "09:00 / 09:30"
+    },
+    {
+        "room_0": "Opening by Codemotion",
+        "time": "09:30 / 09:45"
+    },
+    {
+        "room_0": "Keynote Keynote IBM: IBM Bluemix the new Era of Cognitive by Elisabetta Rinaldi and Rossella de Gaetano",
+        "room_0_link/_text": "Keynote IBM: IBM Bluemix the new Era of Cognitive by Elisabetta Rinaldi and Rossella de Gaetano",
+        "time": "09:45 / 10:00",
+        "room_0_link": "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2677&sub=1"
+    },
+    {
+        "room_0": "Keynote Keynote - Room N10: The Evolution of Evolutionary Architecture by Rebecca Parsons Keynote - Room N11: OK Computer by Peter Gasston",
+        "room_0_link/_text": [
+            "Keynote - Room N10: The Evolution of Evolutionary Architecture by Rebecca Parsons",
+            "Keynote - Room N11: OK Computer by Peter Gasston"
+        ],
+        "time": "10:10 / 10:50",
+        "room_0_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2261&sub=1",
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2261&sub=2"
+        ]
+    },
+    {
+        "room_0": "Coffee Break - Put your ideas on the Unconference Dashboard in the Networking Area!",
+        "time": "10:50 / 11:20"
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "Composing Music in the Cloud Cloud/Bigdata James Weaver (Pivotal Software)",
+        "room_5": "A modern DevOps approach: from Developer Cloud to Application Builder Devops Gabriele Provinciali (Oracle), Nino Guarnacci (Oracle)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2281",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "Monitoraggio e logging nell'A.D. 2016 Devops Michele Finelli (BioDec)",
+        "room_1_link/_text": [
+            "How I learned to love React",
+            "React"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7": "TDD and mobile development: some forgotten techniques, illustrated with Android Mobile Matteo Vaccari (ThoughtWorks)",
+        "room_5_link/_text": [
+            "A modern DevOps approach: from Developer Cloud to Application Builder",
+            "Devops"
+        ],
+        "room_8": "Demistifying the 3D Web Game Dev Pietro Grandi (Betsson Group)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "How I learned to love React React David Clements (nearForm)",
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2285",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2": "What To Expect From PHP7 Languages Lorna Mitchell (LornaJane Ltd)",
+        "room_3": "ElasticSearch in action Cloud/Bigdata Thijs Feryn (Combell)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2279",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2_link/_text": [
+            "What To Expect From PHP7",
+            "Languages"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2282",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_6_link/_text": [
+            "Monitoraggio e logging nell'A.D. 2016",
+            "Devops"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2280",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_3_link/_text": [
+            "ElasticSearch in action",
+            "Cloud/Bigdata"
+        ],
+        "room_5_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2283",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2500",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_7_link/_text": [
+            "TDD and mobile development: some forgotten techniques, illustrated with Android",
+            "Mobile"
+        ],
+        "room_4_link/_text": [
+            "Composing Music in the Cloud",
+            "Cloud/Bigdata"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2284",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "time": "11:20 / 12:00",
+        "room_8_link/_text": [
+            "Demistifying the 3D Web",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "Vagrant for real Devops Michele Orselli (Ideato)",
+        "room_5": "Progressive Enhancement for JavaScript Apps Javascript Garann Means (freelance)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2290",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "The road to Ember.js 2.0 Javascript Lucio Grenzi (freelance)",
+        "room_1_link/_text": [
+            "Welcome to Mordor! Hunting Performance Issues in Node.js.",
+            "Node"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7": "474 Password Not Found Security Giuseppe Galli (K-Tech s.r.l.), Saverio Caminiti (K-Tech s.r.l.)",
+        "room_5_link/_text": [
+            "Progressive Enhancement for JavaScript Apps",
+            "Javascript"
+        ],
+        "room_8": "Games and Autobiography: game design is my psychologist Game Dev Alex Camilleri (Kalopsia Games)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "Welcome to Mordor! Hunting Performance Issues in Node.js. Node Daniel Khan (Dynatrace Austria)",
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2294",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2": "Continuous budgeting Motivational Francesco Fullone (ideato)",
+        "room_3": "Who’s Afraid of Graphs? Cloud/Bigdata David Ostrovsky (Couchbase)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2288",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2_link/_text": [
+            "Continuous budgeting",
+            "Motivational"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2291",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_6_link/_text": [
+            "The road to Ember.js 2.0",
+            "Javascript"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2289",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_3_link/_text": [
+            "Who’s Afraid of Graphs?",
+            "Cloud/Bigdata"
+        ],
+        "room_5_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2292",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2501",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_7_link/_text": [
+            "474 Password Not Found",
+            "Security"
+        ],
+        "room_4_link/_text": [
+            "Vagrant for real",
+            "Devops"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2293",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "time": "12:20 / 13:00",
+        "room_8_link/_text": [
+            "Games and Autobiography: game design is my psychologist",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_0": "Take your Codemotion Lunch Box",
+        "time": "13:00 / 14:00"
+    },
+    {
+        "room_0": "UNCONFERENCE - Talks' selection and presentation of the final agenda in The Hackgarden",
+        "time": "13:00 / 14:00"
+    },
+    {
+        "room_0": "{CODE} Factor - The Code Contest of Codemotion - Preliminaries - Room N8",
+        "time": "13:00 / 14:00"
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "IBM Bluemix: science fiction has been overtaken....now everything is possible Cloud/Bigdata Davide Albo (IBM), Ferdinando Gorga (IBM Italia)",
+        "room_5": "Realizzare applicazioni cross-platform con Xamarin e il pattern MVVM Mobile Matteo Pagani (Microsoft)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2326",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "Technology Vision 2016: People First Inspirational Massimo Giri (Accenture)",
+        "room_1_link/_text": [
+            "Living on the Edge (Service): Bundling Microservices to Optimize Consumption for Devices with Spring Cloud & Netflix",
+            "Microservices"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7": "Intel IoT: Make Everything Smart Makers / IoT Francesco Baldassarri (Intel Corporation)",
+        "room_5_link/_text": [
+            "Realizzare applicazioni cross-platform con Xamarin e il pattern MVVM",
+            "Mobile"
+        ],
+        "room_8": "Sviluppare Videogiochi in 2D con Unity Game Dev Roberto De Ioris (20Tab)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "Living on the Edge (Service): Bundling Microservices to Optimize Consumption for Devices with Spring Cloud & Netflix Microservices Mark Heckler (Pivotal Software, Inc.)",
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2330",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2": "Dockerize it: stop living in the past and embrace the future Devops Alex Nadalin (Namshi)",
+        "room_3": "Front-end First: sopravvivere con il testing in JavaScript Javascript Michele Aponte (Blexin Srl)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2324",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2_link/_text": [
+            "Dockerize it: stop living in the past and embrace the future",
+            "Devops"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2327",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_6_link/_text": [
+            "Technology Vision 2016: People First",
+            "Inspirational"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2325",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_3_link/_text": [
+            "Front-end First: sopravvivere con il testing in JavaScript",
+            "Javascript"
+        ],
+        "room_5_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2328",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2503",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_7_link/_text": [
+            "Intel IoT: Make Everything Smart",
+            "Makers / IoT"
+        ],
+        "room_4_link/_text": [
+            "IBM Bluemix: science fiction has been overtaken....now everything is possible",
+            "Cloud/Bigdata"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2329",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "time": "14:00 / 15:00",
+        "room_8_link/_text": [
+            "Sviluppare Videogiochi in 2D con Unity",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "WebRTC + Socket.io: building a skype-like video chat with native javascript Javascript Michele Di Salvatore (Objectway)",
+        "room_5": "From zero to exit: a full startup journey Motivational Michele Orsi (lastminute.com group)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2390",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "PHP projects beyond the LAMP stack Devops Thijs Feryn (Combell)",
+        "room_1_link/_text": [
+            "How Angular2 can improve your Angular1 apps today",
+            "Angular"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7": "Engage and retain users in the mobile world Mobile Matteo Bonifazi (Open Reply)",
+        "room_5_link/_text": [
+            "From zero to exit: a full startup journey",
+            "Motivational"
+        ],
+        "room_8": "Quindi, che videogioco dovrei sviluppare in VR? Game Dev Fabio Corrirossi (Oniride)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "How Angular2 can improve your Angular1 apps today Angular Nir Kaufman (500tech)",
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2394",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2": "Principles of Evolutionary Architecture Architectures Rebecca Parsons (ThoughtWorks)",
+        "room_3": "NoSQL’s biggest secret: NoSQL never went away. Cloud/Bigdata Laurent Doguin (Couchbase)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2388",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2_link/_text": [
+            "Principles of Evolutionary Architecture",
+            "Architectures"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2391",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_6_link/_text": [
+            "PHP projects beyond the LAMP stack",
+            "Devops"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2389",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_3_link/_text": [
+            "NoSQL’s biggest secret: NoSQL never went away.",
+            "Cloud/Bigdata"
+        ],
+        "room_5_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2392",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2504",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_7_link/_text": [
+            "Engage and retain users in the mobile world",
+            "Mobile"
+        ],
+        "room_4_link/_text": [
+            "WebRTC + Socket.io: building a skype-like video chat with native javascript",
+            "Javascript"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2393",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "time": "15:20 / 16:00",
+        "room_8_link/_text": [
+            "Quindi, che videogioco dovrei sviluppare in VR?",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "The next frontier: WebGL and WebVR WebGL Martin Naumann (Archilogic)",
+        "room_5": "How to disassemble a monolithic app in (not-so) micro-services Microservices michele franzin (SeeSaw s.r.l.)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2430",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "SQL o NoSQL? Progettare applicazioni 'Big Data-ready' attraverso l'utilizzo della Polyglot Persistence Cloud/Bigdata Mario Cartia (Argo Software)",
+        "room_1_link/_text": [
+            "React Native in the wild",
+            "Mobile"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7": "Beauty Treatment for your Android Application Mobile Jose L Ugia (Aureum Digital)",
+        "room_5_link/_text": [
+            "How to disassemble a monolithic app in (not-so) micro-services",
+            "Microservices"
+        ],
+        "room_8": "Commodore 64 Mon Amour Game Dev Andrea Ferlito (Codemotion)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "React Native in the wild Mobile Alex Nadalin (Namshi)",
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2434",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2": "Why DevOps is not enough Devops Uwe Friedrichsen (codecentric AG)",
+        "room_3": "Safe and fast parsers with Nom and Rust Languages Geoffroy Couprie (Clever Cloud)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2428",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2_link/_text": [
+            "Why DevOps is not enough",
+            "Devops"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2431",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_6_link/_text": [
+            "SQL o NoSQL? Progettare applicazioni 'Big Data-ready' attraverso l'utilizzo della Polyglot Persistence",
+            "Cloud/Bigdata"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2429",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_3_link/_text": [
+            "Safe and fast parsers with Nom and Rust",
+            "Languages"
+        ],
+        "room_5_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2432",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2505",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_7_link/_text": [
+            "Beauty Treatment for your Android Application",
+            "Mobile"
+        ],
+        "room_4_link/_text": [
+            "The next frontier: WebGL and WebVR",
+            "WebGL"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2433",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "time": "16:20 / 17:00",
+        "room_8_link/_text": [
+            "Commodore 64 Mon Amour",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "Let's go HTTPS Security Simone Carletti (DNSimple)",
+        "room_5": "RabbitMQ: Message queuing that works Cloud/Bigdata gabriele santomaggio (Erlang-Solutions)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2460",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "Growth Hacking for Developers Motivational Luca Barboni (Growth Hound)",
+        "room_1_link/_text": [
+            "Public speaking for geeks",
+            "Motivational"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7": "Develop apps for (Apple) TV Mobile Francesco Novelli (Run Code)",
+        "room_5_link/_text": [
+            "RabbitMQ: Message queuing that works",
+            "Cloud/Bigdata"
+        ],
+        "room_8": "You Turing-Complete me: programmare dentro i videogiochi Game Dev Sara Di Bartolomeo (Codemotion Kids), Luca Di Bartolomeo (Brogrammers)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "Public speaking for geeks Motivational Lorenzo Barbieri (Microsoft)",
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2464",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2": "We are not Object-Oriented anymore Microservices Matteo Collina (nearForm)",
+        "room_3": "Real World Use Cases: Hadoop and NoSQL in Production Cloud/Bigdata Tugdual Grall (MapR Technologies)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2458",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_2_link/_text": [
+            "We are not Object-Oriented anymore",
+            "Microservices"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2461",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_6_link/_text": [
+            "Growth Hacking for Developers",
+            "Motivational"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2459",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_3_link/_text": [
+            "Real World Use Cases: Hadoop and NoSQL in Production",
+            "Cloud/Bigdata"
+        ],
+        "room_5_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2462",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2506",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_7_link/_text": [
+            "Develop apps for (Apple) TV",
+            "Mobile"
+        ],
+        "room_4_link/_text": [
+            "Let's go HTTPS",
+            "Security"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2463",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "time": "17:20 / 18:00",
+        "room_8_link/_text": [
+            "You Turing-Complete me: programmare dentro i videogiochi",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_0": "Networking Beer",
+        "time": "18:00 / 19:00"
+    },
+    {
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "AngularJS and React Italian communities Meetup Fabio Biondi (Freelance), Matteo Ronchi (Unshift)",
+        "room_6": "GOLANGIT Meetup Meetup Giorgio Cefaro (giorgiocefaro.com), Nicola Larosa (Own consultancy), Giulio De Donato (Chupamobile), Ugo Landini (Red Hat)",
+        "room_1_link/_text": [
+            "{CODE} Factor",
+            "Meetup"
+        ],
+        "room_7": "Microsoft <3 Open Source: Un anno dopo! Meetup Lorenzo Barbieri (Microsoft), Erica Barone (Microsoft)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_text": [
+            "Microsoft <3 Open Source: Un anno dopo!",
+            "Meetup"
+        ],
+        "room_4_link/_text": [
+            "AngularJS and React Italian communities",
+            "Meetup"
+        ],
+        "room_1": "{CODE} Factor Meetup Andrea Ferlito (Codemotion)",
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2710",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2709",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2704",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "time": "18:40 / 19:40",
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2707",
+            "http://rome2016.codemotionworld.com/conference/18-March/#"
+        ],
+        "room_6_link/_text": [
+            "GOLANGIT Meetup",
+            "Meetup"
+        ]
+    }
+]
