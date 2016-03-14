@@ -1,0 +1,555 @@
+[
+    {
+        "room_0": "Doors open",
+        "time": "09:00 / 09:30"
+    },
+    {
+        "room_0": "Opening by Codemotion",
+        "time": "09:30 / 09:45"
+    },
+    {
+        "room_0": "Keynote Keynote Microsoft: Time flies when you're having fun! How Microsoft changed in the last two years by Lorenzo Barbieri",
+        "room_0_link/_text": "Keynote Microsoft: Time flies when you're having fun! How Microsoft changed in the last two years by Lorenzo Barbieri",
+        "time": "09:45 / 10:00",
+        "room_0_link": "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2668&sub=1"
+    },
+    {
+        "room_0": "Keynote Keynote - Room N10: Myths and Patterns of Organizational Change by Linda Rising Keynote - Room N11: Costs of the Cult of Expertise by Jessica Rose",
+        "room_0_link/_text": [
+            "Keynote - Room N10: Myths and Patterns of Organizational Change by Linda Rising",
+            "Keynote - Room N11: Costs of the Cult of Expertise by Jessica Rose"
+        ],
+        "time": "10:10 / 10:50",
+        "room_0_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2354&sub=1",
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2354&sub=2"
+        ]
+    },
+    {
+        "room_0": "Coffee Break",
+        "time": "10:50 / 11:20"
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "Wearable Botnets and Happy Hacked Drivers Security Andrea Pompili (Independent)",
+        "room_5": "Costruiamo un Rover in 60 minuti Makers / IoT Marco Dal Pino (DPCons), Marco Minerva (Sharp Design)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2380",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "Real Time Monitoring and Analitycs : Customer Experience in Production Architectures Simone Cellini (NTTDATA Italia S.P.A.), Simone Gaddeo (NTTData)",
+        "room_1_link/_text": [
+            "Reactive Programming with JavaScript",
+            "Languages"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7": "NoSQL on the move Mobile Glynn Bird (IBM)",
+        "room_5_link/_text": [
+            "Costruiamo un Rover in 60 minuti",
+            "Makers / IoT"
+        ],
+        "room_8": "Quanto sono intelligenti i videogiochi di strategia? Game Dev Alessio Falsetti (Imagimotion Srl)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "Reactive Programming with JavaScript Languages Giorgio Natili (McGraw Hill Education)",
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2384",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_2": "Surviving Code Reviews Motivational Lorna Mitchell (LornaJane Ltd)",
+        "room_3": "Fun with Functional Programming in Clojure Languages John Stevenson (Salesforce)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2378",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_2_link/_text": [
+            "Surviving Code Reviews",
+            "Motivational"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2381",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_6_link/_text": [
+            "Real Time Monitoring and Analitycs : Customer Experience in Production",
+            "Architectures"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2379",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_3_link/_text": [
+            "Fun with Functional Programming in Clojure",
+            "Languages"
+        ],
+        "room_5_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2382",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2511",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_7_link/_text": [
+            "NoSQL on the move",
+            "Mobile"
+        ],
+        "room_4_link/_text": [
+            "Wearable Botnets and Happy Hacked Drivers",
+            "Security"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2383",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "time": "11:20 / 12:00",
+        "room_8_link/_text": [
+            "Quanto sono intelligenti i videogiochi di strategia?",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "OWASP for Developers Security Matteo Meucci (Minded Security)",
+        "room_5": "IoT end-to-end: porta i tuoi dati dal sensore al cloud Makers / IoT Erica Barone (Microsoft)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2400",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "What's NOT new in Modular Java! Languages Milen Dyankov (Liferay)",
+        "room_1_link/_text": [
+            "Refactoring to a Single Page Application",
+            "Javascript"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7": "Maker Experience: user centered toolkit for makers Makers / IoT Mino Parisi (Fifth Beat)",
+        "room_5_link/_text": [
+            "IoT end-to-end: porta i tuoi dati dal sensore al cloud",
+            "Makers / IoT"
+        ],
+        "room_8": "Useless interactions for useful responses: engaging players emotionally with bad game design Game Dev Mattia Traverso (Through Games)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "Refactoring to a Single Page Application Javascript Marcello Teodori (Workshare)",
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2404",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_2": "Software architecture...Yes, on tests! Architectures Annarita De Biase (Hotels.com), Miro Barsocchi (Hotels.com), Camillo Quatrini (Hotels.com)",
+        "room_3": "DiversITy matters Motivational Juliette Reinders Folmer (Advies en zo), Wouter Groenewold (GH+O Communication & Creation)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2398",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_2_link/_text": [
+            "Software architecture...Yes, on tests!",
+            "Architectures"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2401",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_6_link/_text": [
+            "What's NOT new in Modular Java!",
+            "Languages"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2399",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_3_link/_text": [
+            "DiversITy matters",
+            "Motivational"
+        ],
+        "room_5_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2402",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2512",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_7_link/_text": [
+            "Maker Experience: user centered toolkit for makers",
+            "Makers / IoT"
+        ],
+        "room_4_link/_text": [
+            "OWASP for Developers",
+            "Security"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2403",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "time": "12:20 / 13:00",
+        "room_8_link/_text": [
+            "Useless interactions for useful responses: engaging players emotionally with bad game design",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_0": "Take your Codemotion Lunch Box",
+        "time": "13:00 / 14:00"
+    },
+    {
+        "room_0": "{CODE} Factor - The Code Contest of Codemotion - Grand Final in the Hackgarden",
+        "time": "13:00 / 14:00"
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "Writing Security (unit/integration) Tests using the OWASP O2 Platform Security Dinis Cruz (OWASP O2 Platform)",
+        "room_5": "Internet of Ideas: Paper Electronics Makers / IoT Nino Guarnacci (Oracle), Andrea Bosis (Politecnico di Milano)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2420",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "Codice iPhone lavato a caldo: come \"restringere\" la tua app per Apple Watch Mobile Francesco Ingrassia (Freelancer), Marco Passariello (Open Reply), Salvatore Ferranti (Open Reply)",
+        "room_1_link/_text": [
+            "Polymer is production ready, how about you?",
+            "Javascript"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_5_link/_text": [
+            "Internet of Ideas: Paper Electronics",
+            "Makers / IoT"
+        ],
+        "room_8": "Virtual Reality 101: development tips for moving experiences Game Dev Fabio Mosca (Self-Employed)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "Polymer is production ready, how about you? Javascript Maurizio Mangione (Milano JS)",
+        "room_2": "From object oriented to functional domain modeling Languages Mario Fusco (Red Hat)",
+        "room_3": "Anomaly Detection in Telecom with Spark Cloud/Bigdata Tugdual Grall (MapR Technologies)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2418",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_2_link/_text": [
+            "From object oriented to functional domain modeling",
+            "Languages"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2421",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_6_link/_text": [
+            "Codice iPhone lavato a caldo: come \"restringere\" la tua app per Apple Watch",
+            "Mobile"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2419",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_3_link/_text": [
+            "Anomaly Detection in Telecom with Spark",
+            "Cloud/Bigdata"
+        ],
+        "room_5_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2422",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2514",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_4_link/_text": [
+            "Writing Security (unit/integration) Tests using the OWASP O2 Platform",
+            "Security"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2423",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "time": "14:00 / 15:00",
+        "room_8_link/_text": [
+            "Virtual Reality 101: development tips for moving experiences",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "DrDoS - La cura Security Roger Cataldi (Indipendent)",
+        "room_5": "Angular 2: core concepts Angular Fabio Biondi (Freelance), Matteo Ronchi (Unshift)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2440",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "Cutomize and Control Connected Devices Makers / IoT Mirco Vanini (Proxima Software)",
+        "room_1_link/_text": [
+            "Microservices - the lean way (NodeJS)",
+            "Node"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7": "Dove sono i tuoi vertici e di cosa stanno parlando? Cloud/Bigdata Roberto Franchini (OrientDB)",
+        "room_5_link/_text": [
+            "Angular 2: core concepts",
+            "Angular"
+        ],
+        "room_8": "Grafica e modellazione digitale nei videogame Game Dev Alice Lomiry (Direct2Brain)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "Microservices - the lean way (NodeJS) Node Bruno Bossola (JUG Roma)",
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2444",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_2": "Come costruire una Platform As A Service con Docker, Kubernetes Go e Java Devops Massimiliano Dessi (_)",
+        "room_3": "Design is your business too Motivational Emanuela Damiani (HitFox Group)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2438",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_2_link/_text": [
+            "Come costruire una Platform As A Service con Docker, Kubernetes Go e Java",
+            "Devops"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2441",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_6_link/_text": [
+            "Cutomize and Control Connected Devices",
+            "Makers / IoT"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2439",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_3_link/_text": [
+            "Design is your business too",
+            "Motivational"
+        ],
+        "room_5_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2442",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2515",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_7_link/_text": [
+            "Dove sono i tuoi vertici e di cosa stanno parlando?",
+            "Cloud/Bigdata"
+        ],
+        "room_4_link/_text": [
+            "DrDoS - La cura",
+            "Security"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2443",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "time": "15:20 / 16:00",
+        "room_8_link/_text": [
+            "Grafica e modellazione digitale nei videogame",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_8_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link/_source": [
+            null,
+            "#"
+        ],
+        "room_4": "Storia e storie degli hacker della sicurezza informatica Security Stefano Chiccarelli (Quantum Leasp s.r.l.), Francesco Perna (Quantum Leap), Lucia Zappacosta (Metro Olografix)",
+        "room_3_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2450",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_6": "Developing Augmented Reality on Smart Glasses Motivational Mauro Rubin (JoinPad Srl), Niccolò Mangiarotti (JoinPad)",
+        "room_1_link/_text": [
+            "Microservice in practice with Seneca.js",
+            "Node"
+        ],
+        "room_3_link/_source": [
+            null,
+            "#"
+        ],
+        "room_7": "Are Drones our best friends? Makers / IoT Nicola Marietti (Aibotix Italia)",
+        "room_8": "Sviluppare giochi in Italia, da hobby a lavoro. Game Dev Daniele Bianchini (Looky Games)",
+        "room_4_link/_source": [
+            null,
+            "#"
+        ],
+        "room_1": "Microservice in practice with Seneca.js Node Michele Capra (nearForm)",
+        "room_7_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2454",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_2": "JavaScript in 2016 Javascript Eduard Tomàs (Plain Concepts)",
+        "room_3": "Elm or how I learned to love front-end development Languages Marco Perone (MV Labs)",
+        "room_1_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2448",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_2_link/_text": [
+            "JavaScript in 2016",
+            "Javascript"
+        ],
+        "room_4_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2451",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_6_link/_text": [
+            "Developing Augmented Reality on Smart Glasses",
+            "Motivational"
+        ],
+        "room_2_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2449",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_3_link/_text": [
+            "Elm or how I learned to love front-end development",
+            "Languages"
+        ],
+        "room_8_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2516",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "room_7_link/_text": [
+            "Are Drones our best friends?",
+            "Makers / IoT"
+        ],
+        "room_4_link/_text": [
+            "Storia e storie degli hacker della sicurezza informatica",
+            "Security"
+        ],
+        "room_1_link/_source": [
+            null,
+            "#"
+        ],
+        "room_2_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6_link": [
+            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2453",
+            "http://rome2016.codemotionworld.com/conference/19-March/#"
+        ],
+        "time": "16:20 / 17:00",
+        "room_8_link/_text": [
+            "Sviluppare giochi in Italia, da hobby a lavoro.",
+            "Game Dev"
+        ]
+    },
+    {
+        "room_0": "Closing Keynote Closing Keynote - Room 1- New Era of Software with modern Application Security By Dinis Cruz",
+        "room_0_link/_text": "Closing Keynote - Room 1- New Era of Software with modern Application Security By Dinis Cruz",
+        "time": "17:20 / 18:00",
+        "room_0_link": "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2488&sub=1"
+    }
+]
