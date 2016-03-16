@@ -8,22 +8,22 @@
         "time": "09:30 / 09:45"
     },
     {
-        "room_0": "Keynote Keynote Microsoft: Time flies when you're having fun! How Microsoft changed in the last two years by Lorenzo Barbieri",
+        "room_0": "Keynote Microsoft: Time flies when you're having fun! How Microsoft changed in the last two years by Lorenzo Barbieri",
         "room_0_link/_text": "Keynote Microsoft: Time flies when you're having fun! How Microsoft changed in the last two years by Lorenzo Barbieri",
         "time": "09:45 / 10:00",
         "room_0_link": "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2668&sub=1"
     },
     {
-        "room_0": "Keynote Keynote - Room N10: Myths and Patterns of Organizational Change by Linda Rising Keynote - Room N11: Costs of the Cult of Expertise by Jessica Rose",
-        "room_0_link/_text": [
-            "Keynote - Room N10: Myths and Patterns of Organizational Change by Linda Rising",
-            "Keynote - Room N11: Costs of the Cult of Expertise by Jessica Rose"
-        ],
+        "room_0": "Keynote: Myths and Patterns of Organizational Change by Linda Rising",
+        "room_0_link/_text": "Keynote: Myths and Patterns of Organizational Change by Linda Rising",
         "time": "10:10 / 10:50",
-        "room_0_link": [
-            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2354&sub=1",
-            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2354&sub=2"
-        ]
+        "room_0_link": "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2354&sub=1"
+    },
+    {
+        "room_0": "Keynote: Myths and Patterns of Organizational Change by Linda Rising",
+        "room_0_link/_text": "Keynote: Myths and Patterns of Organizational Change by Linda Rising",
+        "time": "10:10 / 10:50",
+        "room_0_link": "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2354&sub=2"
     },
     {
         "room_0": "Coffee Break",
