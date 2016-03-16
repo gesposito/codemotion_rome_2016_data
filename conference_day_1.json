@@ -8,22 +8,22 @@
         "time": "09:30 / 09:45"
     },
     {
-        "room_0": "Keynote Keynote IBM: IBM Bluemix the new Era of Cognitive by Elisabetta Rinaldi and Rossella de Gaetano",
-        "room_0_link/_text": "Keynote IBM: IBM Bluemix the new Era of Cognitive by Elisabetta Rinaldi and Rossella de Gaetano",
+        "room_0": "Keynote: IBM Bluemix the new Era of Cognitive by Elisabetta Rinaldi and Rossella de Gaetano",
+        "room_0_link/_text": "Keynote: IBM Bluemix the new Era of Cognitive by Elisabetta Rinaldi and Rossella de Gaetano",
         "time": "09:45 / 10:00",
         "room_0_link": "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2677&sub=1"
     },
     {
-        "room_0": "Keynote Keynote - Room N10: The Evolution of Evolutionary Architecture by Rebecca Parsons Keynote - Room N11: OK Computer by Peter Gasston",
-        "room_0_link/_text": [
-            "Keynote - Room N10: The Evolution of Evolutionary Architecture by Rebecca Parsons",
-            "Keynote - Room N11: OK Computer by Peter Gasston"
-        ],
+        "room_0": "Keynote: The Evolution of Evolutionary Architecture by Rebecca Parsons",
+        "room_0_link/_text": "Keynote: The Evolution of Evolutionary Architecture by Rebecca Parsons",
         "time": "10:10 / 10:50",
-        "room_0_link": [
-            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2261&sub=1",
-            "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2261&sub=2"
-        ]
+        "room_0_link": "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2261&sub=1"
+    },
+    {
+        "room_0": " Keynote: OK Computer by Peter Gasston",
+        "room_0_link/_text": "Keynote: OK Computer by Peter Gasston",
+        "time": "10:10 / 10:50",
+        "room_0_link": "http://rome2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2261&sub=2"
     },
     {
         "room_0": "Coffee Break - Put your ideas on the Unconference Dashboard in the Networking Area!",
